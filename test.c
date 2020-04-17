@@ -8,6 +8,8 @@ int main(){
         }
         printf("\n");
     }
+
+printf("wow");
     
     return 0;
 }
